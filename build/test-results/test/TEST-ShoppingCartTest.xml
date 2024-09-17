@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShoppingCartTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-09-17T21:29:00" hostname="101s-MacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="generate receipt()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="build receipt after applying offers()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="calculate total price with no offers()" classname="ShoppingCartTest" time="0.0"/>
+  <testcase name="calculate total price with 10 percent discount and tax()" classname="ShoppingCartTest" time="0.0"/>
+  <testcase name="apply percentage discount offer()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="add items to cart and calculate total price with tax()" classname="ShoppingCartTest" time="0.0"/>
+  <testcase name="remove items from cart()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="apply buy N get M free offer()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="remove all items from cart()" classname="ShoppingCartTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

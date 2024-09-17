@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReceiptGeneratorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-09-17T21:29:00" hostname="101s-MacBook-Pro.local" time="0.015">
+  <properties/>
+  <testcase name="generate receipt with no items()" classname="ReceiptGeneratorTest" time="0.007"/>
+  <testcase name="generate receipt with mixed offers()" classname="ReceiptGeneratorTest" time="0.003"/>
+  <testcase name="generate receipt with no discounts or offers()" classname="ReceiptGeneratorTest" time="0.0"/>
+  <testcase name="generate receipt with buy N get M free offer()" classname="ReceiptGeneratorTest" time="0.001"/>
+  <testcase name="generate receipt with percentage discount()" classname="ReceiptGeneratorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

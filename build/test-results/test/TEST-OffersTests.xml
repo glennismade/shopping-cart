@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OffersTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-17T21:29:00" hostname="101s-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="buy N get M free offer logic with tax()" classname="OffersTests" time="0.01"/>
+  <testcase name="no offer logic()" classname="OffersTests" time="0.001"/>
+  <testcase name="percentage discount offer logic()" classname="OffersTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
